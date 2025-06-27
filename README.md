@@ -1,21 +1,21 @@
-# 📝 Simple Notes API
+# Simple Notes API
 
 A beginner-friendly, file-based RESTful Notes API built using **Node.js** and **Express.js**. This app allows you to **Create**, **Read**, **Update**, and **Delete** notes, with data stored locally in a `notes.json` file.
 
----
 
-## 🚀 Features
 
-- 📥 Create a new note
-- 📋 View all notes
-- 🔍 View a note by ID
-- 📝 Update a note
-- ❌ Delete a note
-- 💾 Data stored in `notes.json` using Node.js file system
+##  Features
 
----
+-  Create a new note
+-  View all notes
+-  View a note by ID
+-  Update a note
+-  Delete a note
+-  Data stored in `notes.json` using Node.js file system
 
-## 🛠️ Technologies Used
+
+
+##  Technologies Used
 
 - [Node.js](https://nodejs.org/)
 - [Express.js](https://expressjs.com/)
@@ -23,7 +23,7 @@ A beginner-friendly, file-based RESTful Notes API built using **Node.js** and **
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 - app.js # Main server code
 -  notes.json # JSON file to store notes
